@@ -1,0 +1,5 @@
+this is the references to build my code:
+
+1. https://github.com/imams12/COVID-Data-Analytics (double lineplot)
+2. https://ilmudatapy.com/cara-membuat-bar-plot-dengan-matplotlib-python/ (barplot)
+3. https://github.com/alamhanz/pandas_journey (dataset)
